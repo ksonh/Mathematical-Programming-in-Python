@@ -1,2 +1,2 @@
 # Mathematical-Programming-in-Python
-This represents the collection of bite-size projects for Python incorporating a computation or mathematical algorithm.
+This represents my collection of task-focused projects for Python which incorporate a computation or mathematical algorithm.
